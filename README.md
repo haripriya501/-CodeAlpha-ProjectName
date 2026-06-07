@@ -29,6 +29,9 @@ A simple FAQ Chatbot built using HTML, CSS, and JavaScript.
 * What is Deep Learning?
 * What is NLP?
 * What is Data Science?
+## Screenshot
+
+![FAQ Chatbot Screenshot](screenshot.png)
 
 ## Author
 
